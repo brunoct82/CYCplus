@@ -29,7 +29,7 @@ Um ciclocomputador open-source para treinos indoor, desenvolvido em Python. Ele 
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/SEU_USUARIO/bike-computer-ble.git](https://github.com/SEU_USUARIO/bike-computer-ble.git)
+    git clone [https://github.com/brunoct82/bike-computer-ble.git](https://github.com/brunoct82/bike-computer-ble.git)
     cd bike-computer-ble
     ```
 
